@@ -5,12 +5,14 @@ Angular Date Time Picker
 [![npm](https://img.shields.io/npm/dm/ng-pick-datetime.svg)](https://www.npmjs.com/package/ng-pick-datetime)
 
 **Angular date time picker - Angular reusable UI component**
-**This package supports Angular 7+**
+**This package supports Angular 6+**
 
 
 Breaking Changes
 -------
- - The picker has been updated for Angular 7+ apps.
+ - The picker has been updated for Angular 6+ apps. If you are still using Angular 5, you should install the picker version 5.2.6.
+   ```npm install ng-pick-datetime@5.2.6 --save```
+ - Added Output Events yearSelected, monthSelected
 
 Description
 -------
